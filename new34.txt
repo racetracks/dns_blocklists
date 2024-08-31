@@ -1,1 +1,16 @@
-||233.44.30.46.in-addr.arpa^
+||32.30.46.in-addr.arpa^
+||33.30.46.in-addr.arpa^
+||34.30.46.in-addr.arpa^
+||35.30.46.in-addr.arpa^
+||36.30.46.in-addr.arpa^
+||37.30.46.in-addr.arpa^
+||38.30.46.in-addr.arpa^
+||39.30.46.in-addr.arpa^
+||40.30.46.in-addr.arpa^
+||41.30.46.in-addr.arpa^
+||42.30.46.in-addr.arpa^
+||43.30.46.in-addr.arpa^
+||44.30.46.in-addr.arpa^
+||45.30.46.in-addr.arpa^
+||46.30.46.in-addr.arpa^
+||47.30.46.in-addr.arpa^
