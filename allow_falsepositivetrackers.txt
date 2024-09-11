@@ -2,3 +2,4 @@ ghostery.com
 *.ghostery.com
 whotracks.me
 adblock-tester.com
+canyoublockit.com
