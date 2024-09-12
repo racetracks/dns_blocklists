@@ -3,5 +3,3 @@ ghostery.com
 whotracks.me
 adblock-tester.com
 canyoublockit.com
-*.config.office.akadns.net
-*.office.net
