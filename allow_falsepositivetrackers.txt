@@ -3,3 +3,4 @@ ghostery.com
 whotracks.me
 adblock-tester.com
 canyoublockit.com
+*.notifiarr.wiki
